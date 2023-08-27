@@ -1,5 +1,5 @@
 # patternnumberer written by UV-EAGLE
-# a simple bash script that matches a string in your text file and numbers it sequenctially throughout the file. For example numbering the first occurence of the string "quality" to quality_1, the second occurence of the string "quality" to quality_2, etc. 
+# a simple bash script that matches a string in your text file and numbers it sequentially throughout the file. For example numbering the first occurence of the string "quality" to quality_1, the second occurence of the string "quality" to quality_2, etc. 
 
 #!/bin/bash
 count=0
